@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab03_2-input_and_gate/sim/modelsim
+vtestbench
+!s110 1657252848
+!i10b 1
+!s100 lWV1TG2Ll[D72ezPkW@G;0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I553KBUY8V_Seil_lYD@>C1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab09_3-input_and_gate/sim/modelsim
+w1657252495
+8C:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab09_3-input_and_gate/testbench/testbench.v
+FC:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab09_3-input_and_gate/testbench/testbench.v
+!i122 4
+L0 3 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657252848.000000
+!s107 C:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab09_3-input_and_gate/testbench/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab09_3-input_and_gate/testbench/testbench.v|
+!i113 1
+o-work work
+Z5 tCvgOpt 0
+vthree_input_and_gate
+!s110 1657252607
+!i10b 1
+!s100 NIc^2Sj7el4NV?a<bTJTS3
+R1
+I?1SiddIzW^4?4SD?iP@c30
+R2
+R3
+w1657252490
+8../../src/rtl/three_input_and_gate.v
+F../../src/rtl/three_input_and_gate.v
+!i122 2
+L0 3 7
+R4
+r1
+!s85 0
+31
+!s108 1657252607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/three_input_and_gate.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+R5
+vtwo_input_and_gate
+!s110 1657175238
+!i10b 1
+!s100 KOfL4Cn2f^N<7BOPMm3=:0
+R1
+IQn8:BmWCR:=bFzYi>:Vj<0
+R2
+R0
+w1657175044
+8../../src/rtl/two_input_and_gate.v
+F../../src/rtl/two_input_and_gate.v
+!i122 0
+Z7 L0 3 6
+R4
+r1
+!s85 0
+31
+!s108 1657175238.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/two_input_and_gate.v|
+R6
+!i113 1
+R5
+vtwo_input_or_gate
+!s110 1657177125
+!i10b 1
+!s100 ^Ql>ohc9:=<>ocZO7b9MC1
+R1
+I`DNCz^F]Xa9iJ@k?nno6[3
+R2
+dC:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab04_2-input_or_gate/sim/modelsim
+w1657176582
+8../../src/rtl/two_input_or_gate.v
+F../../src/rtl/two_input_or_gate.v
+!i122 1
+R7
+R4
+r1
+!s85 0
+31
+!s108 1657177125.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/two_input_or_gate.v|
+R6
+!i113 1
+R5

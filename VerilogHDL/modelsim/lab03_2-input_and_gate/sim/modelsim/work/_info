@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/verilog_study-1/VerilogHDL/modelsim/lab03_2-input_and_gate/sim/modelsim
+vtestbench
+Z1 !s110 1657175238
+!i10b 1
+!s100 7]d4LRDCk=V;?AS7HgEZk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[d6oYk9EF`0W`MUif0J4A1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1657175042
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 0
+L0 3 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1657175238.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/two_input_and_gate.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtwo_input_and_gate
+R1
+!i10b 1
+!s100 KOfL4Cn2f^N<7BOPMm3=:0
+R2
+IQn8:BmWCR:=bFzYi>:Vj<0
+R3
+R0
+w1657175044
+8../../src/rtl/two_input_and_gate.v
+F../../src/rtl/two_input_and_gate.v
+!i122 0
+L0 3 6
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/testbench.v|../../src/rtl/two_input_and_gate.v|
+R6
+!i113 1
+R7
