@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vdecoder
+!s110 1657589325
+!i10b 1
+!s100 FN_KMV@oDzCZ>X^EGPo3M3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgS7ICzRZ:62ID2Ve`G9QU3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab18_decoder/sim/modelsim
+w1657589321
+8../../src/rtl/decoder.v
+F../../src/rtl/decoder.v
+!i122 15
+L0 3 25
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657589325.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/decoder.v|
+Z4 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z5 tCvgOpt 0
+vdemux
+!s110 1657584501
+!i10b 1
+!s100 No3eP`TDY@<Al??8@ZC?C2
+R1
+I>Ul_mo6Rd3oElE2ZW]:bD2
+R2
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab16_demux/sim/modelsim
+w1657584356
+8../../src/rtl/demux.v
+F../../src/rtl/demux.v
+!i122 14
+L0 3 41
+R3
+r1
+!s85 0
+31
+!s108 1657584501.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/demux.v|
+R4
+!i113 1
+R5
+vhalf_subtractor
+Z6 !s110 1657603794
+!i10b 1
+!s100 a3>@SlI`=]QYK>Na`io<f0
+R1
+I48<`IcOf33j[VnEYBK_<33
+R2
+Z7 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab22_Half_subtrator/sim/modelsim
+w1657603769
+8../../src/rtl/half_subtractor.v
+F../../src/rtl/half_subtractor.v
+!i122 16
+L0 3 6
+R3
+r1
+!s85 0
+31
+Z8 !s108 1657603794.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/half_subtractor.v|
+R4
+!i113 1
+R5
+vmux
+!s110 1657527842
+!i10b 1
+!s100 UI^;IlXF6NN5QUEgfY:^P2
+R1
+I^nQdONj?@`;LMWZYX90Z<1
+R2
+R0
+w1657527829
+8../../src/rtl/mux.v
+F../../src/rtl/mux.v
+!i122 9
+L0 3 14
+R3
+r1
+!s85 0
+31
+!s108 1657527842.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
+R4
+!i113 1
+R5
+vtestbench
+R6
+!i10b 1
+!s100 ZBN5M>3RBQVVB:=Y6zNGT1
+R1
+IZ;[4mkdYG5cmRI4hbPRK]1
+R2
+R7
+w1657603767
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 16
+L0 3 12
+R3
+r1
+!s85 0
+31
+R8
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/half_subtractor.v|
+R4
+!i113 1
+R5
