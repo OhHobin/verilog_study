@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vdemux
+!s110 1657584501
+!i10b 1
+!s100 No3eP`TDY@<Al??8@ZC?C2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>Ul_mo6Rd3oElE2ZW]:bD2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab16_demux/sim/modelsim
+w1657584356
+8../../src/rtl/demux.v
+F../../src/rtl/demux.v
+!i122 14
+L0 3 41
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657584501.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/demux.v|
+Z4 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z5 tCvgOpt 0
+vencoder
+Z6 !s110 1657588387
+!i10b 1
+!s100 ldVf66?TM9GEX4KdU>6L92
+R1
+I_QA6eD=7h9LMIcaAQ;VMe3
+R2
+Z7 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab17_BCD_encoder/sim/modelsim
+w1657588379
+8../../src/rtl/encoder.v
+F../../src/rtl/encoder.v
+!i122 20
+L0 3 29
+R3
+r1
+!s85 0
+31
+Z8 !s108 1657588387.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/encoder.v|
+R4
+!i113 1
+R5
+vmux
+!s110 1657527842
+!i10b 1
+!s100 UI^;IlXF6NN5QUEgfY:^P2
+R1
+I^nQdONj?@`;LMWZYX90Z<1
+R2
+R0
+w1657527829
+8../../src/rtl/mux.v
+F../../src/rtl/mux.v
+!i122 9
+L0 3 14
+R3
+r1
+!s85 0
+31
+!s108 1657527842.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
+R4
+!i113 1
+R5
+vtestbench
+R6
+!i10b 1
+!s100 H;JHSj6WM[aTcfQ;TP^Cb2
+R1
+I^^aVZofX]4odflNLLEWSl0
+R2
+R7
+w1657588248
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 20
+L0 3 19
+R3
+r1
+!s85 0
+31
+R8
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/encoder.v|
+R4
+!i113 1
+R5
