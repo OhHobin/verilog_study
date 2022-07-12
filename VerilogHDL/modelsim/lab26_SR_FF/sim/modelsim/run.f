@@ -1,2 +1,2 @@
-../../src/rtl/*.v
+../../src/rtl/SR_ff.v
 ../../testbench/testbench.v

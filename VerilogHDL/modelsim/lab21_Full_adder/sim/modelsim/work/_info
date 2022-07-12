@@ -54,24 +54,46 @@ R4
 !i113 1
 R5
 vfull_adder
-Z6 !s110 1657600615
+Z6 !s110 1657608726
 !i10b 1
-!s100 z]cL<Xlb1XRiYKXcPS9QQ0
+!s100 oE[Q1ojS;1;M]H;Hl5j1T3
 R1
-IgI57o]DJd56>>UjN@PZfB0
+IR[fbD:mCLfLj9o7WFUcHT0
 R2
 Z7 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab21_Full_adder/sim/modelsim
-w1657600609
+w1657608724
 8../../src/rtl/full_adder.v
 F../../src/rtl/full_adder.v
-!i122 19
-L0 3 13
+!i122 21
+L0 3 11
 R3
 r1
 !s85 0
 31
-Z8 !s108 1657600615.000000
-!s107 ../../testbench/testbench.v|../../src/rtl/full_adder.v|
+Z8 !s108 1657608726.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/half_adder.v|../../src/rtl/full_adder.v|
+R4
+!i113 1
+R5
+vhalf_adder
+R6
+!i10b 1
+!s100 <9GIOL=T_hEXKa3b7aK9F2
+R1
+I3n8F^Zzj;^O=VKbFO:Id53
+R2
+R7
+w1657608210
+8../../src/rtl/half_adder.v
+F../../src/rtl/half_adder.v
+!i122 21
+L0 3 15
+R3
+r1
+!s85 0
+31
+R8
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/half_adder.v|../../src/rtl/full_adder.v|
 R4
 !i113 1
 R5
@@ -108,14 +130,14 @@ R7
 w1657600490
 8../../testbench/testbench.v
 F../../testbench/testbench.v
-!i122 19
+!i122 21
 L0 3 18
 R3
 r1
 !s85 0
 31
 R8
-Z9 !s107 ../../testbench/testbench.v|../../src/rtl/full_adder.v|
+R9
 R4
 !i113 1
 R5
