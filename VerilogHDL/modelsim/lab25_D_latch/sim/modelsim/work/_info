@@ -9,47 +9,70 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vD_latch
+Z1 !s110 1657674058
+!i10b 1
+!s100 GP[YN9=K]Bi;k?doVI2>^3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKEfdz`HDQa:lLSTN`oV]>0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab25_D_latch/sim/modelsim
+w1657673873
+8../../src/rtl/D_latch.v
+F../../src/rtl/D_latch.v
+!i122 12
+L0 3 6
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1657674058.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/D_latch.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z8 tCvgOpt 0
+n@d_latch
 vmux
-Z1 !s110 1657527842
+!s110 1657527842
 !i10b 1
 !s100 UI^;IlXF6NN5QUEgfY:^P2
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+R2
 I^nQdONj?@`;LMWZYX90Z<1
-Z3 VDg1SIo80bB@j0V0VzS_@n1
+R3
 R0
 w1657527829
 8../../src/rtl/mux.v
 F../../src/rtl/mux.v
 !i122 9
 L0 3 14
-Z4 OV;L;2020.1;71
+R5
 r1
 !s85 0
 31
-Z5 !s108 1657527842.000000
+!s108 1657527842.000000
 !s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
-Z6 !s90 -reportprogress|300|-f|run.f|
+R7
 !i113 1
-Z7 tCvgOpt 0
+R8
 vtestbench
 R1
 !i10b 1
-!s100 RzhG@R^FJ;j]=Lmb?A>aB0
+!s100 MITOEYo0V@NhZ[cBn2AYF2
 R2
-ICMBI6XUP[[]QIM4GokAWD3
+IJW:NjcLQ0T`fAI>3a0cf^0
 R3
-R0
-w1657527826
+R4
+w1657674054
 8../../testbench/testbench.v
 F../../testbench/testbench.v
-!i122 9
-L0 3 28
-R4
+!i122 12
+L0 3 10
+R5
 r1
 !s85 0
 31
-R5
-Z8 !s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
 R6
-!i113 1
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/D_latch.v|
 R7
+!i113 1
+R8

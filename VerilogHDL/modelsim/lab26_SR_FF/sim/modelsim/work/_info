@@ -10,46 +10,69 @@ z2
 cModel Technology
 Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
 vmux
-Z1 !s110 1657527842
+!s110 1657527842
 !i10b 1
 !s100 UI^;IlXF6NN5QUEgfY:^P2
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
 I^nQdONj?@`;LMWZYX90Z<1
-Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1657527829
 8../../src/rtl/mux.v
 F../../src/rtl/mux.v
 !i122 9
 L0 3 14
-Z4 OV;L;2020.1;71
+Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1657527842.000000
+!s108 1657527842.000000
 !s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
-Z6 !s90 -reportprogress|300|-f|run.f|
+Z4 !s90 -reportprogress|300|-f|run.f|
 !i113 1
-Z7 tCvgOpt 0
-vtestbench
-R1
+Z5 tCvgOpt 0
+vSR_ff
+Z6 !s110 1657678303
 !i10b 1
-!s100 RzhG@R^FJ;j]=Lmb?A>aB0
+!s100 o^`Q?T97]mhc?5NR^eI`S1
+R1
+IRoV7S`SQQQj`l?Yz[11M80
 R2
-ICMBI6XUP[[]QIM4GokAWD3
+Z7 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab26_SR_FF/sim/modelsim
+w1657678224
+8../../src/rtl/SR_ff.v
+F../../src/rtl/SR_ff.v
+!i122 24
+L0 3 26
 R3
-R0
-w1657527826
+r1
+!s85 0
+31
+Z8 !s108 1657678302.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/SR_ff.v|
+R4
+!i113 1
+R5
+n@s@r_ff
+vtestbench
+R6
+!i10b 1
+!s100 9Bm_zkY_INQU^R<J9znBg1
+R1
+I=YNn??Vme]OQX03RknLl>3
+R2
+R7
+w1657678289
 8../../testbench/testbench.v
 F../../testbench/testbench.v
-!i122 9
-L0 3 28
-R4
+!i122 24
+L0 3 21
+R3
 r1
 !s85 0
 31
-R5
-Z8 !s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
-R6
+R8
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/SR_ff.v|
+R4
 !i113 1
-R7
+R5

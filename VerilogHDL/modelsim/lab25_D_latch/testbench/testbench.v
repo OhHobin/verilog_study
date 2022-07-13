@@ -1,7 +1,12 @@
 `timescale 1ps/1ps
 
 module testbench();
-
-    D_latch dl(i0, i1, i2, i3, i4, i5, i6, i7, sel, out);
-    
+    reg D;
+    wire Q, Q_bar;
+    D_latch dl(D, Q, Q_bar);
+    initial begin
+        D = 1'b0;
+        #10 D = 1'b1;
+        #10 $stop;
+    end
 endmodule

@@ -9,47 +9,70 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vJK_ff
+!s110 1657682812
+!i10b 1
+!s100 fMRi2zW]URA=i2`hB?E5d0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaKT5oH;I2;n7=jobz^oW]0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab28_JK_FF/sim/modelsim
+w1657682744
+8../../src/rtl/JK_ff.v
+F../../src/rtl/JK_ff.v
+!i122 12
+L0 3 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657682812.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/JK_ff.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z6 tCvgOpt 0
+n@j@k_ff
 vmux
-Z1 !s110 1657527842
+!s110 1657527842
 !i10b 1
 !s100 UI^;IlXF6NN5QUEgfY:^P2
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+R1
 I^nQdONj?@`;LMWZYX90Z<1
-Z3 VDg1SIo80bB@j0V0VzS_@n1
+R2
 R0
 w1657527829
 8../../src/rtl/mux.v
 F../../src/rtl/mux.v
 !i122 9
 L0 3 14
-Z4 OV;L;2020.1;71
-r1
-!s85 0
-31
-Z5 !s108 1657527842.000000
-!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
-Z6 !s90 -reportprogress|300|-f|run.f|
-!i113 1
-Z7 tCvgOpt 0
-vtestbench
-R1
-!i10b 1
-!s100 RzhG@R^FJ;j]=Lmb?A>aB0
-R2
-ICMBI6XUP[[]QIM4GokAWD3
-R3
-R0
-w1657527826
-8../../testbench/testbench.v
-F../../testbench/testbench.v
-!i122 9
-L0 3 28
 R4
 r1
 !s85 0
 31
+!s108 1657527842.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
 R5
-Z8 !s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
-R6
 !i113 1
-R7
+R6
+vtestbench
+!s110 1657683410
+!i10b 1
+!s100 LLCoHP?[0a<11FiUWYVK12
+R1
+IoAd4g]NPBP7S8GVLP4JCI1
+R2
+R3
+w1657682800
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 13
+L0 3 36
+R4
+r1
+!s85 0
+31
+!s108 1657683410.000000
+Z7 !s107 ../../testbench/testbench.v|../../src/rtl/JK_ff.v|
+R5
+!i113 1
+R6
