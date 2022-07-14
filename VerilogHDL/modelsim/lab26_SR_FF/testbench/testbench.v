@@ -20,4 +20,4 @@ module testbench();
         #10 S = 1'b0; R = 1'b0;
         #10 $stop;
     end
-endmodule
+endmodulef

@@ -8,7 +8,7 @@ module SR_ff(clk, rst_n, S, R, Q, Q_bar);
         if (!rst_n)
         begin
             Q <= 1'b0;
-            Q_bar <= 1'b0;
+            Q_bar <= 1'b1;
         end
         else
         begin 

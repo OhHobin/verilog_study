@@ -1,0 +1,146 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vD_ff
+Z1 !s110 1657763887
+!i10b 1
+!s100 G9E;ceaB0]KD^5I>mg31b2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzTnIKChUBaQO8eUG<6fJ93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab32_ring_counter/sim/modelsim
+w1657763877
+8../../src/rtl/D_ff.v
+F../../src/rtl/D_ff.v
+!i122 34
+Z5 L0 3 17
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1657763887.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/ring_counter.v|../../src/rtl/D_ff_reset_one.v|../../src/rtl/D_ff.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z9 tCvgOpt 0
+n@d_ff
+vD_ff_reset_one
+R1
+!i10b 1
+!s100 :WIJ;ikZPlXzFNFVjSjfY3
+R2
+I[[OoXPbOz8LCZ[OcOblWn2
+R3
+R4
+w1657762251
+8../../src/rtl/D_ff_reset_one.v
+F../../src/rtl/D_ff_reset_one.v
+!i122 34
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/ring_counter.v|../../src/rtl/D_ff_reset_one.v|../../src/rtl/D_ff.v|
+R8
+!i113 1
+R9
+n@d_ff_reset_one
+vmux
+!s110 1657527842
+!i10b 1
+!s100 UI^;IlXF6NN5QUEgfY:^P2
+R2
+I^nQdONj?@`;LMWZYX90Z<1
+R3
+R0
+w1657527829
+8../../src/rtl/mux.v
+F../../src/rtl/mux.v
+!i122 9
+L0 3 14
+R6
+r1
+!s85 0
+31
+!s108 1657527842.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
+R8
+!i113 1
+R9
+vring_counter
+R1
+!i10b 1
+!s100 9RVQ1J_2BRY`Pk=UHO;Jf0
+R2
+I3X>j?3NDe48VQJ7VS2^Uh2
+R3
+R4
+w1657763157
+8../../src/rtl/ring_counter.v
+F../../src/rtl/ring_counter.v
+!i122 34
+L0 3 10
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vT_ff
+!s110 1657688772
+!i10b 1
+!s100 <g^RU2>iSM6lCfXiN8j@`3
+R2
+IbfFCY0?4U@o8PcUaDA_`j0
+R3
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab29_T_FF/sim/modelsim
+w1657688767
+8../../src/rtl/T_ff.v
+F../../src/rtl/T_ff.v
+!i122 24
+R5
+R6
+r1
+!s85 0
+31
+!s108 1657688772.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/T_ff.v|
+R8
+!i113 1
+R9
+n@t_ff
+vtestbench
+R1
+!i10b 1
+!s100 z6kLQ6VUkh2G:58VL6@F]0
+R2
+I;L_W<617WCW=dkn6]V97d1
+R3
+R4
+w1657763252
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 34
+L0 3 13
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9

@@ -9,7 +9,7 @@ module JK_ff(clk, rst_n, j, k, q, q_bar);
         if (!rst_n) 
         begin
             q <= 1'b0; 
-            q_bar <= 1'b0; 
+            q_bar <= 1'b1; 
         end
         else 
         begin
