@@ -8,7 +8,7 @@ module D_ff(clk, rst_n, D, Q, Q_bar);
         if (!rst_n)
             begin 
                 Q <= 1'b0;
-                Q_bar <= 1'b1;
+                Q_bar <= 1'b0;
             end
         else 
             begin
