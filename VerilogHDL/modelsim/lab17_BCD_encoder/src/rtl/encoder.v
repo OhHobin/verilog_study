@@ -3,7 +3,7 @@
 module encoder(I0, I1, I2, I3, I4, I5, I6, I7, I8, I9, out);
     input I0, I1, I2, I3, I4, I5, I6, I7, I8, I9;
     output reg [3:0] out;
-    always @(I0, I1, I2, I3, I4, I5, I6, I7, I8, I9)
+    always @(*)
     begin
         if (I0 == 1'b1)
             out = 4'h0;

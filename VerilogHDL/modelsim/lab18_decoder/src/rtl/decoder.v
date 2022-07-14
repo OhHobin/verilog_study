@@ -6,22 +6,22 @@ module decoder(in, out);
     always @(in)
     begin
         if (in == 3'h0)
-            out = 8'b10000000;
+            out = 8'b1000_0000;
         else if (in == 3'h1)
-            out = 8'b01000000;
+            out = 8'b0100_0000;
         else if (in == 3'h1)
-            out = 8'b00100000;
+            out = 8'b0010_0000;
         else if (in == 3'h1)
-            out = 8'b00010000;
+            out = 8'b0001_0000;
         else if (in == 3'h1)
-            out = 8'b00001000;
+            out = 8'b0000_1000;
         else if (in == 3'h1)
-            out = 8'b00000100;
+            out = 8'b0000_0100;
         else if (in == 3'h1)
-            out = 8'b00000010;
+            out = 8'b0000_0010;
         else if (in == 3'h1)
-            out = 8'b00000001;
+            out = 8'b0000_0001;
         else
-            out = 8'b00000000;
+            out = 8'b0000_0000;
     end
 endmodule

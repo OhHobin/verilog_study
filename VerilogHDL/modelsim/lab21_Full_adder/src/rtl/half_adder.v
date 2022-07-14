@@ -6,10 +6,10 @@ module half_adder(a, b, carry, out);
     output reg carry;
     output reg out;
 
-    always @(a, b)
+    always @(*)
     begin
         out = a^b;
-        if (a == 1'b1 & b == 1'b1)
+        if (a == 1'b1 && b == 1'b1)
             carry = 1'b1;
         else 
             carry = 1'b0;

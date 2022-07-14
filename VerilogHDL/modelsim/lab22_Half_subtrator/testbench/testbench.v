@@ -2,8 +2,8 @@
 
 module testbench();
     reg a, b;
-    wire barrow, out;
-    half_subtractor hs(a, b, barrow, out);
+    wire ballow, out;
+    half_subtractor hs(a, b, ballow, out);
     initial begin
         a = 1'b0; b = 1'b0;
         #10 a = 1'b0; b = 1'b1;

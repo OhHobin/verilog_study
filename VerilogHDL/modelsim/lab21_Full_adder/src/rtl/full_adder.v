@@ -9,5 +9,5 @@ module full_adder(a, b, c, carry, out);
     half_adder ha1(a, b, carry1, out2);
     half_adder ha2(out2, c, carry2, out);
 
-    assign carry = carry1||carry2;
+    assign carry = carry1|carry2;
 endmodule
