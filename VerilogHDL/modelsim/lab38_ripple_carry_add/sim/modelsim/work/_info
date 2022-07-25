@@ -1,0 +1,166 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab15_mux/sim/modelsim
+vfull_adder
+Z1 !s110 1657847778
+!i10b 1
+!s100 e@g`8jRfz959Uh_?[oScF2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij_?CM0F^2=l[PbRi8;W^>2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab38_ripple_carry_add/sim/modelsim
+w1657775693
+8../../src/rtl/full_adder.v
+F../../src/rtl/full_adder.v
+!i122 31
+L0 3 11
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1657847778.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/ripple_carry_add.v|../../src/rtl/half_adder.v|../../src/rtl/full_adder.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z8 tCvgOpt 0
+vhalf_adder
+R1
+!i10b 1
+!s100 Y4UT3=k5T8lM8mA2JG^YF0
+R2
+I<Ah^nWN]4LF4bR?@3?OH73
+R3
+R4
+w1657775682
+8../../src/rtl/half_adder.v
+F../../src/rtl/half_adder.v
+!i122 31
+L0 3 15
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/ripple_carry_add.v|../../src/rtl/half_adder.v|../../src/rtl/full_adder.v|
+R7
+!i113 1
+R8
+vmux
+!s110 1657527842
+!i10b 1
+!s100 UI^;IlXF6NN5QUEgfY:^P2
+R2
+I^nQdONj?@`;LMWZYX90Z<1
+R3
+R0
+w1657527829
+8../../src/rtl/mux.v
+F../../src/rtl/mux.v
+!i122 9
+L0 3 14
+R5
+r1
+!s85 0
+31
+!s108 1657527842.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/mux.v|
+R7
+!i113 1
+R8
+vregister
+!s110 1657778294
+!i10b 1
+!s100 ^HNb@mVH1=8@9=1[gIkW>0
+R2
+IZ8FU[d?[_;>mN`Hg_Bb1S3
+R3
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab37_register/sim/modelsim
+w1657778185
+8../../src/rtl/register.v
+F../../src/rtl/register.v
+!i122 28
+L0 3 30
+R5
+r1
+!s85 0
+31
+!s108 1657778294.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/register.v|
+R7
+!i113 1
+R8
+vripple_carry_add
+R1
+!i10b 1
+!s100 XHCofjgh;D5PO2>@YP^HP2
+R2
+I04YBDRW0PgWc3Nb[3z3be1
+R3
+R4
+w1657847769
+8../../src/rtl/ripple_carry_add.v
+F../../src/rtl/ripple_carry_add.v
+!i122 31
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vT_ff
+!s110 1657688772
+!i10b 1
+!s100 <g^RU2>iSM6lCfXiN8j@`3
+R2
+IbfFCY0?4U@o8PcUaDA_`j0
+R3
+dC:/Users/LG/Documents/verilog_project/VerilogHDL/modelsim/lab29_T_FF/sim/modelsim
+w1657688767
+8../../src/rtl/T_ff.v
+F../../src/rtl/T_ff.v
+!i122 24
+L0 3 17
+R5
+r1
+!s85 0
+31
+!s108 1657688772.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/T_ff.v|
+R7
+!i113 1
+R8
+n@t_ff
+vtestbench
+R1
+!i10b 1
+!s100 >niFjW<UXEIF>^K@mZABf2
+R2
+IFnb]_IhT`1;GAzjI?Pn<23
+R3
+R4
+w1657847598
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 31
+L0 1 14
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
